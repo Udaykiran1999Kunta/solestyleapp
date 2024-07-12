@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SoleStyle</string>
+
+    <string name="hello">, </string>
+    <string name="terms_and_conditions_headerdes">Solestyle App Term of Use
+    Terms of Use:
+By using our solestyle app, you agree to comply with all applicable laws and regulations. You must be at least 18 years old or have parental consent. We reserve the right to terminate or suspend your account at any time for violations of these terms.
+
+Privacy Policy:
+We collect personal information to improve user experience and provide personalized services. Your data will not be shared with third parties without consent, except as required by law. We use industry-standard security measures to protect your information. You can review, update, or delete your data by contacting us.</string>
+    <string name="create_account">Create an Account </string>
+    <string name="welcome">Welcome Back</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="terms_and_conditions">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="terms_and_conditions_header"></string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="or">or</string>
+    <string name="go_to_login">Already have an account? Login</string>
+
+    <string name="forgot_password">Forgot your password</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="navigation_header">App Drawer</string>
+    <string name="title_activity_details_page">DetailsPageActivity</string>
+    <string name="title_activity_addto_cart">AddtoCartActivity</string>
+
+</resources>

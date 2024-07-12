@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231022148913",
+    "project_id": "solestyle-38ed5",
+    "storage_bucket": "solestyle-38ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231022148913:android:4c2bd03ec3ea75ec7ac410",
+        "android_client_info": {
+          "package_name": "com.project.solestyle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy1sZ40lO9Vjk9ELjIMoDE39wdwW1UB0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
